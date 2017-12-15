@@ -1,0 +1,89 @@
+#2ex2 # now discarded (redundant, same as 2exb)
+2fwv 
+#1ytq discarded after a second review, it is a clear domain swap
+1v2x 
+1pkh 1 2
+1r5y
+1kq3 1 2
+1jq5 1 2
+#2h7i 1 2 obsoleted, replacement 4u0j
+4u0j 1 2
+2nzl 
+1uj6 
+1ju3 
+1sml 1 2
+3fah 
+1lzl 
+3iue 
+1vk5 
+2exb 
+3a2q 
+3h6d 
+1s2z 
+2z1n 
+2vef 
+1bs1 
+3lw6
+# 2fu9 removed as it is the same as 1sml
+#2fu9
+# 1uj4 removed as it is the same as 1uj6
+#1uj4
+# removed 3f3e as there doesn't seem to be so much experimental evidence for it - JD 21.10.2013
+#3f3e
+2vr4
+# 2gfj removed as it is the same as 1sml
+#2gfj
+1x7v
+# from here taken from plp set (first interfaces below 2000 area)
+1f2d 1
+1lw4 1
+1n8p 1
+1qop 1
+2aq6 1
+2bhs 1
+2cft 1
+2e7j 1
+2ecq 1
+2rkb 1
+# from here our additional oligomers found "in the wild"
+1eej 1
+1o17 1 2
+1ze3 1 2
+3d36 1 3
+# from here the dimers found through annotating the putative dimer list
+# 1st sublist areas between 900 and 1100
+3r0n
+3da8
+2c4w 1 2
+3jrz
+3f6q
+2wxd
+2bz6
+2d0d
+3cm3
+3o1n
+3h0n
+2v52
+1zlh
+2dvn
+3ovp
+2i7d
+3bzl
+2car
+# 2nd sublist areas between 1200 and 1300
+3gus
+3jyo
+1uz3
+2wtm
+2a5l
+2y39
+2ab0
+# 3rd sublist areas between 1300 and 1400
+3epw
+2g2u
+2vvt
+1p5f
+3itf
+3kd2
+2w6a
+2y27 

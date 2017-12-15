@@ -1,0 +1,90 @@
+#1d3g # now discarded (redundant, same as 1d3h)
+1ejd
+1gpi
+1j96
+1lqt
+1lxk
+1n45
+1pp3
+#1q7z # now discarded after another review
+1s83
+1so7
+1ueb
+1w9q
+1wly
+1xgk
+1ynq
+#2a5s # now discarded after another review
+#2blp # discarded for now as it is not a 100% clear-cut case
+2cki
+2eyi
+2f37
+2gas
+2hlq
+2ipi 1 2
+2j0p
+2j46 1 2
+2ow9
+2q7d
+2w20
+2wbf
+2wbq
+2wsa
+2xov
+2yz1
+2z6o
+3aap
+3b37
+#3b7o now discarded (domain swap)
+3c8y
+3cj1
+3cu9
+3fwk
+3gkj
+3go5
+3gvo
+3h30 1 2 3
+3hzl
+3kk8
+3m66
+3mg1
+3mhz
+#3n1e now discarded (fragment, could be domain swap, dubious)
+1lf2 
+2qb5 
+1zlq 
+2yvw 
+1d3h 
+2e1v 
+3n5c 
+2wbm 
+3c1d 
+1ndb 
+2x26 
+#3fpu now removed, wrong annotation: it is a complex
+3kh7 
+1toa 
+1ffr 
+1vqq 
+1n4g 
+3ita 
+1woq 
+1cqx 
+2eqa 
+3mhj 
+2fgz 
+1fpo 
+3lvd 
+3irb 
+1utj 
+3f0o 
+2h44 
+1t8g 
+1g6a 
+#3gkh now discarded (redundant, same as 3gkj)
+#2z6p now discarded (redundant, same as 2z6o)
+#1izq now discarded (redundant, same as 2blp)
+2zyr 
+3els
+# 2vg5 is not a monomer, but it's second interface is a crystal interface and very large. It's also the only entry with a lowish resolution (2.8)
+#2vg5 2
